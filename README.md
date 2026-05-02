@@ -61,8 +61,7 @@ All cleaning was performed using **Microsoft Excel — Power Query**.
 ---
 
 ## Files
-- `data/original_data.csv` — raw messy data
-- `data/cleaned_data.xlsx` — fully cleaned data
+both clean and unclean in one file
 
 ---
 
